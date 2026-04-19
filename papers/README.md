@@ -20,9 +20,25 @@ Available in Japanese, in English, in French, and in Spanish.
 
 *The Geometry of Sensibilities: On the Connection between the History of Sensibilities of the Annales School and the Theory of Geometric Intelligence.*
 
-A methodological proposal by which the Riemannian-geometric framework is applied to the *histoire des sensibilités* inaugurated by the third generation of the French Annales school — the olfactory history of Alain Corbin, the soundscape studies of the French countryside, the body-history of Georges Vigarello, the history of pain of Roselyne Rey. Three pathways are proposed for the *mise en variété* of qualitative sources: embedding by means of a language model; manual coding by the historian, in the tradition of Michel Vovelle; and the combination of the two. A proof of concept upon synthetic data — twelve quartiers of Paris across fifteen decadal periods from 1750 to 1900, with eight variables drawn from Corbin's own conceptual framework — establishes the computational feasibility of the method. The principal finding of the Lie-derivative analysis is that Haussmann's *grands travaux* produced a degree of olfactory structural transformation 2.74 times that of the construction of the sewers considered in isolation, and the Pasteurian revolution a factor of 1.75 — both results standing in accord with Corbin's thesis that olfactory experience is, in its essence, a socially constituted phenomenon.
+A methodological proposal by which the Riemannian-geometric framework is applied to the *histoire des sensibilités* inaugurated by the third generation of the French Annales school — the olfactory history of Alain Corbin, the soundscape studies of the French countryside, the body-history of Georges Vigarello, the history of pain of Roselyne Rey. Three pathways are proposed for the *mise en variété* of qualitative sources: embedding by means of a language model; manual coding by the historian, in the tradition of Michel Vovelle; and the combination of the two. A proof of concept upon synthetic data — twelve *quartiers* of Paris across fifteen decadal periods from 1750 to 1900, with eight variables drawn from Corbin's own conceptual framework — establishes the computational feasibility of the method. The principal finding of the Lie-derivative analysis is that Haussmann's *grands travaux* produced a degree of olfactory structural transformation 2.74 times that of the construction of the sewers considered in isolation, and the Pasteurian revolution a factor of 1.75 — both results standing in accord with Corbin's thesis that olfactory experience is, in its essence, a socially constituted phenomenon.
 
 Available in Japanese, in English, in German, and in French.
+
+### `sacred_music/`
+
+*The Application of Geometric Intelligence Theory to the Corpus of Sacred Music.*
+
+A directory in which the Riemannian-geometric framework is brought to bear upon works of sacred music — that domain, it may be said, within which the most delicate structures of human feeling have been, over the course of centuries, inscribed and transmitted with a precision scarcely equalled elsewhere. The directory contains at present one case, Mozart's motet *Ave Verum Corpus* (K. 618, June 1791), treated in two studies: a methodological proposal upon semi-synthetic data, and an empirical verification upon data derived from the MIDI transcription of the published score. Further works of sacred music will be added as the applied programme develops.
+
+Available in Japanese, in English, in German, in French, and in Latin.
+
+### `historiography/`
+
+*The Historian's Manifold: A Dialogue between E. H. Carr and Riemannian Geometry.*
+
+A philosophical dialogue between the historiographical tradition of E. H. Carr, the Annales school, and Benedict Anderson on the one hand, and the Riemannian-geometric apparatus of GI theory on the other. The thesis advanced is that identical data, under alteration of the objective function, give rise to geometrically distinct manifolds, and that the historian's vantage-point, in the sense of Carr, corresponds term for term to the objective function in the sense of GI theory. The argument is extended to the choice of the Morse function upon the manifold, whereby history is shown to be doubly interpretation-dependent; and thence to the structural identity of the *mentalité collective* of the Annales school, the imagined community of Benedict Anderson, and the manifold of GI theory, as three languages for a single phenomenon. The work is the first side story of the GI Case-Study Novel series, set in the autumn of 2036, half a year after the events of the novel *Riem's Error*.
+
+Available in Japanese, in English, in French, and in German.
 
 ## A Note upon Future Additions
 
