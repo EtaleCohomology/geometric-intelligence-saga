@@ -6,7 +6,7 @@
 
 ## Présentation
 
-Le présent sous-répertoire contient les trois versions linguistiques d'une même proposition méthodologique : la reformulation des principaux instruments analytiques des sciences sociales quantitatives — économétrie, science politique computationnelle, sociologie quantitative, cliométrie — dans le cadre de la géométrie riemannienne.
+Le présent sous-répertoire contient les quatre versions linguistiques d'une même proposition méthodologique : la reformulation des principaux instruments analytiques des sciences sociales quantitatives
 
 L'article établit des correspondances entre dix méthodes existantes et leurs contreparties sur une variété riemannienne construite à partir des données par la métrique de rappel du décodeur d'un auto-encodeur variationnel : les modèles vectoriels autorégressifs, la causalité de Granger, le test de Chow, les systèmes d'équations simultanées, la méthode de contrôle synthétique, le modèle spatial NOMINATE, les séries temporelles structurelles bayésiennes, l'analyse de réseaux, les modèles à base d'agents, et la critique de Lucas elle-même.
 
