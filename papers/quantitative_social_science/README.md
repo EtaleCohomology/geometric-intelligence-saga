@@ -4,7 +4,7 @@
 
 ## Overview
 
-The present subdirectory contains the three linguistic versions of a single methodological proposal: the reformulation of the principal analytical instruments of quantitative social science — econometrics, computational political science, quantitative sociology, and cliometrics — within the framework of Riemannian geometry.
+The present subdirectory contains the four linguistic versions of a single methodological proposal: the reformulation of the principal analytical instruments of quantitative social science — econometrics, computational political science, quantitative sociology, and cliometrics — within the framework of Riemannian geometry.
 
 The paper establishes correspondences between ten existing methods and their counterparts on a Riemannian manifold constructed from the data by the pullback metric of a variational autoencoder decoder: vector autoregression, Granger causality, the Chow test, simultaneous-equations models, the synthetic control method, the NOMINATE spatial model, Bayesian structural time-series models, network analysis, agent-based models, and the Lucas critique itself.
 
