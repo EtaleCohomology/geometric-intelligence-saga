@@ -16,7 +16,7 @@ The present subdirectory contains two studies which, taken together, constitute 
 
 ### `part1_manifold/` — The Manifold of the True Body
 
-The first study — composed before the empirical verification was undertaken — proposes the methodological framework and applies it to a semi-synthetic dataset constructed by the author from musicological knowledge of the score. The study succeeds as a methodological proposal: it establishes that the four conditions of Proposition 2.1 of GI theory are satisfied upon this diminutive corpus, and that the resulting manifold admits of geometric analysis. The paper is presented as a single multilingual document, its five linguistic versions (Japanese, English, German, French, Russian) gathered within a single file.
+The first study — composed before the empirical verification was undertaken — proposes the methodological framework and applies it to a semi-synthetic dataset constructed by the author from musicological knowledge of the score. The study succeeds as a methodological proposal: it establishes that the four conditions of Proposition 2.1 of GI theory are satisfied upon this diminutive corpus, and that the resulting manifold admits of geometric analysis. The paper is presented as a single multilingual document, its five principal linguistic versions (Japanese, English, German, French, Russian) gathered within a single file, with Latin as the language of the motet itself and citations in Church Slavonic, Ancient Greek, and Italian woven into the text.
 
 ### `part2_empirical/` — Empirical Verification
 
