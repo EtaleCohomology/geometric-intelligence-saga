@@ -22,7 +22,7 @@ Disponible en anglais, en français, en espagnol et en japonais.
 
 Proposition méthodologique par laquelle le cadre géométrique riemannien se trouve appliqué à l'*histoire des sensibilités* inaugurée par la troisième génération de l'école des Annales — l'histoire olfactive d'Alain Corbin, l'histoire des paysages sonores des campagnes françaises, l'histoire du corps de Georges Vigarello, l'histoire de la douleur de Roselyne Rey. Trois voies sont proposées pour la *mise en variété* des sources qualitatives : le plongement par modèle de langue ; le codage manuel par l'historien, dans la tradition de Michel Vovelle ; et la combinaison des deux. Une démonstration de faisabilité sur données synthétiques — douze quartiers de Paris sur quinze périodes décennales, de 1750 à 1900, avec huit variables tirées de l'appareil conceptuel propre à Corbin — établit la faisabilité computationnelle de la méthode. Le résultat principal de l'analyse par dérivée de Lie est que les *grands travaux* haussmanniens produisent un degré de transformation structurelle olfactive égal à 2,74 fois celui du curage des égouts considéré isolément, et la révolution pasteurienne un facteur de 1,75 — résultats qui se trouvent l'un et l'autre en accord avec la thèse corbinienne selon laquelle l'expérience olfactive est, par son essence même, un phénomène socialement constitué.
 
-Disponible en anglais, en français, en espagnol et en japonais.
+Disponible en japonais, en anglais, en allemand et en français.
 
 ## Note sur les adjonctions à venir
 
