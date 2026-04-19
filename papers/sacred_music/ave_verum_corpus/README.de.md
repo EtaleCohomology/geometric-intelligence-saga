@@ -16,7 +16,7 @@ Das vorliegende Unterverzeichnis enthält zwei Studien, die zusammengenommen ein
 
 ### `part1_manifold/` — Die Mannigfaltigkeit des wahren Leibes
 
-Die erste Studie — entstanden vor der empirischen Verifikation — legt den methodologischen Rahmen dar und wendet ihn auf einen semi-synthetischen Datensatz an, den der Verfasser aus musikwissenschaftlicher Kenntnis der Partitur selbst konstruiert hat. Die Studie gelingt als methodologischer Entwurf: sie weist nach, dass die vier Bedingungen des Satzes 2.1 der GI-Theorie auch auf diesem überaus kleinen Korpus erfüllt sind und dass die entstehende Mannigfaltigkeit eine geometrische Analyse zulässt. Der Text liegt als ein einziges mehrsprachiges Dokument vor, dessen fünf Sprachfassungen (japanisch, englisch, deutsch, französisch, russisch) in einer einzigen Datei vereinigt sind.
+Die erste Studie — entstanden vor der empirischen Verifikation — legt den methodologischen Rahmen dar und wendet ihn auf einen semi-synthetischen Datensatz an, den der Verfasser aus musikwissenschaftlicher Kenntnis der Partitur selbst konstruiert hat. Die Studie gelingt als methodologischer Entwurf: sie weist nach, dass die vier Bedingungen des Satzes 2.1 der GI-Theorie auch auf diesem überaus kleinen Korpus erfüllt sind und dass die entstehende Mannigfaltigkeit eine geometrische Analyse zulässt. Der Text liegt als ein einziges mehrsprachiges Dokument vor, dessen fünf Hauptsprachfassungen (japanisch, englisch, deutsch, französisch, russisch) in einer einzigen Datei vereinigt sind, wobei das Lateinische — die Sprache der Motette selbst — sowie Zitate in Kirchenslawisch, Altgriechisch und Italienisch in den Textkörper eingewoben sind.
 
 ### `part2_empirical/` — Empirische Verifikation
 
