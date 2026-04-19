@@ -16,9 +16,9 @@ La contribution centrale consiste en une reformulation géométrique de la criti
 
 | Langue | Fichier |
 |--------|---------|
-| Anglais | [EN.docx](./EN.pdf) |
-| Français | [FR.docx](./FR.pdf) |
-| Espagnol | [ES.docx](./ES.pdf) |
+| Anglais | [EN.pdf](./EN.pdf) |
+| Français | [FR.pdf](./FR.pdf) |
+| Espagnol | [ES.pdf](./ES.pdf) |
 | Japonais | [JA.pdf](./JA.pdf) |
 
 ## Nature du texte
