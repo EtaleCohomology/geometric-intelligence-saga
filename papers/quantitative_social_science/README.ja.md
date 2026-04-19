@@ -16,9 +16,9 @@
 
 | 言語 | ファイル |
 |------|----------|
-| 英語 | [EN.docx](./EN.docx) |
-| フランス語 | [FR.docx](./FR.docx) |
-| スペイン語 | [ES.docx](./ES.docx) |
+| 英語 | [EN.pdf](./EN.pdf) |
+| フランス語 | [FR.pdf](./FR.pdf) |
+| スペイン語 | [ES.pdf](./ES.pdf) |
 
 ## 論文の種別
 
