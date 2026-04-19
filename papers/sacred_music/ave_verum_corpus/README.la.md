@@ -16,7 +16,7 @@ Subdirectorium praesens duas commentationes continet, quae simul sumptae applica
 
 ### `part1_manifold/` — Varietas Corporis Veri
 
-Prima commentatio — ante verificationem empiricam composita — cadrum methodologicum proponit eumque ad corpus datorum semi-fictorum applicat, quod auctor ex cognitione musicologica partiturae ipse construxit. Haec commentatio ut propositio methodologica feliciter procedit: demonstrat enim quattuor condiciones Propositionis 2.1 theoriae GI etiam in corpore hoc perexiguo expleri, varietatemque exinde ortam analysim geometricam admittere. Textus ut unum documentum multilingue exhibetur, cuius quinque versiones (Iaponica, Anglica, Germanica, Francogallica, Russica) in uno fasciculo coniunguntur.
+Prima commentatio — ante verificationem empiricam composita — cadrum methodologicum proponit eumque ad corpus datorum semi-fictorum applicat, quod auctor ex cognitione musicologica partiturae ipse construxit. Haec commentatio ut propositio methodologica feliciter procedit: demonstrat enim quattuor condiciones Propositionis 2.1 theoriae GI etiam in corpore hoc perexiguo expleri, varietatemque exinde ortam analysim geometricam admittere. Textus ut unum documentum multilingue exhibetur, cuius quinque versiones linguisticae principales (Iaponica, Anglica, Germanica, Francogallica, Russica) in uno fasciculo coniunguntur, dum lingua Latina — sermo ipsius motetae — necnon citationes Slavonicae Ecclesiasticae, Graecae antiquae, Italicaeque in corpus textus intexuntur.
 
 ### `part2_empirical/` — Verificatio Empirica
 
