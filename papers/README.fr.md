@@ -14,7 +14,7 @@ Au lecteur qui aborde la théorie GI pour la première fois, il est en règle g�
 
 Proposition méthodologique par laquelle les principaux instruments analytiques des sciences sociales quantitatives — l'appareil tout entier de l'économétrie, de la science politique computationnelle, de la sociologie quantitative et de la cliométrie — se voient reformulés dans le cadre de la géométrie riemannienne. Des correspondances sont établies entre dix méthodes existantes (modèles vectoriels autorégressifs, causalité de Granger, test de Chow, systèmes d'équations simultanées, méthode de contrôle synthétique, modèle spatial NOMINATE, séries temporelles structurelles bayésiennes, analyse de réseaux, modèles à base d'agents, et la critique de Lucas elle-même) et leurs contreparties sur une variété riemannienne construite à partir des données par la métrique de rappel du décodeur d'un auto-encodeur variationnel. La contribution centrale consiste en une réécriture géométrique de la critique de Lucas : soit, l'erreur qui consiste à employer un modèle à métrique fixe alors même que la métrique en cause n'est point un champ de Killing — c'est-à-dire alors que la dérivée de Lie de la métrique selon le champ de vecteurs de politique publique ne s'annule pas. La dérivée de Lie s'y propose, en conséquence, comme mesure du changement structurel affranchie des hypothèses d'un quelconque modèle structurel, et opérant sur un plan tout autre que celui du programme DSGE.
 
-Disponible en anglais, en français et en espagnol.
+Disponible en anglais, en français, en espagnol et en japonais.
 
 ### `sensibilities_annales_school/`
 
