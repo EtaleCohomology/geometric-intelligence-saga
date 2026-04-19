@@ -14,9 +14,9 @@ The central contribution is a geometric restatement of the Lucas critique: the e
 
 | Language | File |
 |----------|------|
-| English | [EN.docx](./EN.pdf) |
-| French | [FR.docx](./FR.pdf) |
-| Spanish | [ES.docx](./ES.pdf) |
+| English | [EN.pdf](./EN.pdf) |
+| French | [FR.pdf](./FR.pdf) |
+| Spanish | [ES.pdf](./ES.pdf) |
 | Japanese | [JA.pdf](./JA.pdf) |
 
 ## Paper Type
