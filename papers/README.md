@@ -14,7 +14,7 @@ The reader who approaches GI theory for the first time will, as a rule, be bette
 
 A methodological proposal by which the principal analytical instruments of quantitative social science — the whole apparatus of econometrics, of computational political science, of quantitative sociology, and of cliometrics — may be reformulated within the framework of Riemannian geometry. Correspondences are established between ten existing methods (vector autoregression, Granger causality, the Chow test, simultaneous-equations models, the synthetic control method, the NOMINATE spatial model, Bayesian structural time-series models, network analysis, agent-based models, and the Lucas critique itself) and their counterparts on a Riemannian manifold constructed from the data by the pullback metric of a variational autoencoder decoder. The central contribution is a geometric restatement of the Lucas critique: the error, namely, of employing a fixed-metric model when the metric in question is not a Killing field — that is to say, when the Lie derivative of the metric along the policy vector field fails to vanish. The Lie derivative is offered, in consequence, as a measure of structural change free from the assumptions of any particular structural model, and as operating upon a plane altogether different from that of the DSGE programme.
 
-Available in English, in French, and in Spanish.
+Available in Japanese, in English, in French, and in Spanish.
 
 ### `sensibilities_annales_school/`
 
