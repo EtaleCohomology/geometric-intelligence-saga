@@ -16,7 +16,7 @@ Le présent sous-répertoire renferme deux études qui, prises ensemble, constit
 
 ### `part1_manifold/` — La Variété du Corps Véritable
 
-La première étude — composée avant que la vérification empirique fût entreprise — propose le cadre méthodologique et l'applique à un jeu de données semi-fictives constitué par l'auteur à partir de sa connaissance musicologique de la partition. L'étude réussit en tant que proposition méthodologique : elle établit que les quatre conditions de la Proposition 2.1 de la théorie GI sont satisfaites sur ce corpus exigu, et que la variété résultante admet une analyse géométrique. Le texte se présente comme un document multilingue unique, les cinq versions linguistiques (japonaise, anglaise, allemande, française, russe) étant rassemblées en un seul fichier.
+La première étude — composée avant que la vérification empirique fût entreprise — propose le cadre méthodologique et l'applique à un jeu de données semi-fictives constitué par l'auteur à partir de sa connaissance musicologique de la partition. L'étude réussit en tant que proposition méthodologique : elle établit que les quatre conditions de la Proposition 2.1 de la théorie GI sont satisfaites sur ce corpus exigu, et que la variété résultante admet une analyse géométrique. Le texte se présente comme un document multilingue unique, ses cinq versions linguistiques principales (japonaise, anglaise, allemande, française, russe) rassemblées en un seul fichier, avec le latin — langue de la motette elle-même — et des citations en slavon ecclésiastique, en grec ancien et en italien tissées dans le corps du texte.
 
 ### `part2_empirical/` — Vérification empirique
 
