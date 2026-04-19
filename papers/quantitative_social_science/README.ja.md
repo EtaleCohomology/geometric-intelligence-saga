@@ -19,6 +19,7 @@
 | 英語 | [EN.pdf](./EN.pdf) |
 | フランス語 | [FR.pdf](./FR.pdf) |
 | スペイン語 | [ES.pdf](./ES.pdf) |
+| 日本語 | [JA.pdf](./JA.pdf) |
 
 ## 論文の種別
 
