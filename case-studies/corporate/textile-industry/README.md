@@ -31,7 +31,7 @@
 ### 日本語版 ([ja/](ja/))
 
 - **00_story_main.pdf** — 本編ストーリー (133 ページ、約 97,000 字)
-- **01_workflow.pdf** — GI 理論の作業工程 (公開準備中)
+- **01_casestudy_GI_theory_mapping**: ケーススタディとGI 理論との対応関係（理論書の各項目とケーススタティ内でのデータ解析実務手順解説との対応関係）
 - **02_mathematics.pdf** — 使用された数学の解説 (公開準備中)
 - **03_python_scripts.pdf** — 実装スクリプト (公開準備中)
 - **04_industry_knowledge.pdf** — 繊維業界ドメイン知識 (公開準備中)
