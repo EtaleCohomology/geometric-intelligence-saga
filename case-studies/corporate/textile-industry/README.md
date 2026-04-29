@@ -33,9 +33,9 @@
 |---------|------|------|
 | ja/00_story_main.pdf | 本編ストーリー(133ページ) | 公開済み |
 | ja/01_casestudy_GI_theory_mapping.pdf | ケーススタディと GI 理論の対応関係(62ページ) | 公開済み |
-| ja/02_mathematics.pdf | 使用された数学概念の解説 | 作成予定 |
-| ja/03_python_scripts.pdf | 実装スクリプト集 | 作成予定 |
-| ja/04_industry_knowledge.pdf | 業界・分野ドメイン知識 | 作成予定 |
+| ja/02_mathematics.pdf | 使用された数学概念の解説 | 公開済み |
+| ja/03_python_scripts.pdf | 実装スクリプト集 | 公開済み |
+| ja/04_industry_knowledge.pdf | 業界・分野ドメイン知識 | 公開済み |
 
 ### 英語版 (en/) — 公開準備中
 
