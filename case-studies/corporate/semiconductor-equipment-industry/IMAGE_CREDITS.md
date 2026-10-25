@@ -69,6 +69,72 @@ GI 理論分析の概念図 (経営環境多様体の 2 層アーキテクチャ
 - シンプレクティック積分による 8 年間の航海図
 - 層理論による組織の不整合の検知
 
+## 画像ファイル一覧
+
+すべての画像は [images/](images/) フォルダに収録している。ファイル名の番号は本編での掲載順である。
+
+### 表紙
+
+| ファイル | 内容 |
+|---------|------|
+| [00_Front_Cover.jpg](images/00_Front_Cover.jpg) | 表紙 |
+
+### キャラクター肖像 ([images/characters/](images/characters/))
+
+| ファイル | 人物 |
+|---------|------|
+| P01_Riem_Stream.jpg | リーム・ストリーム |
+| P02_Professor_Liluru.jpg | リルル先生 |
+| P03_Professor_Kurata.jpg | 倉田教授 |
+| P04_Lin.jpg | リン |
+| P05_Kaito.jpg | カイト |
+| P06_Yuki.jpg | ユキ |
+| P07_Sofia_Mercator.jpg | ソフィア・メルカトル |
+| P08_Yamanouchi.jpg | 山之内 |
+| P09_Ryuji_Tachibana.jpg | 橘龍司 |
+| P10_Seiichi_Todo.jpg | 藤堂誠一 |
+| P11_Yuko_Shiraishi.jpg | 白石悠子 |
+| P12_Keita_Kuroda.jpg | 黒田慶太 |
+| P13_Shunsuke_Akabane.jpg | 赤羽俊介 |
+| P14_Mikio_Moriya.jpg | 守谷幹夫 |
+| P15_Tatsuya_Miyashita.jpg | 宮下達也 |
+| P16_Rintaro_Segawa.jpg | 瀬川凛太郎 |
+| P17_Mitsuki_Hasebe.jpg | 長谷部美月 |
+| P18_Shota_Ito.jpg | 伊藤翔太 |
+
+### シーンの挿絵と数学的可視化 ([images/scenes/](images/scenes/))
+
+| ファイル | 章 | 内容 |
+|---------|----|------|
+| S01_Prologue_Todo_Phone_Call.jpg | プロローグ | BIS 規制の知らせを受ける藤堂 CEO |
+| S02_Ch01_Video_Conference.jpg | 第 1 章 | ロンドンと府中を結ぶビデオ会議 |
+| S03_Ch01_Two_Layer_Architecture.jpg | 第 1 章 | 経営環境多様体と装置データの 2 層アーキテクチャ（可視化） |
+| S04_Ch02_Silicon_Cycle_Phase_Angle.jpg | 第 2 章 | シリコンサイクルの位相角（可視化） |
+| S05_Ch02_Proposition_1_1_Team.jpg | 第 2 章 | 命題 1.1 に取り組むチーム |
+| S06_Ch02_Physics_Connects_Generations.jpg | 第 2 章 | レシピから物理量への変換（可視化） |
+| S07_Ch03_Curvature_Terrain.jpg | 第 3 章 | 曲率地形図（可視化） |
+| S08_Ch03_Board_Briefing.jpg | 第 3 章 | 曲率の異方性を説明する場面 |
+| S09_Ch04_Silicon_Ghost_Implanted.jpg | 第 4 章 | SILICON GHOST が仕込まれる場面 |
+| S10_Ch05_Agent01_Plasma_Alert.jpg | 第 5 章 | 午前 2 時の身体化エージェントのアラート |
+| S11_Ch05_Two_Perception_Spaces.jpg | 第 5 章 | 二つの知覚空間（可視化） |
+| S12_Ch07_EMP_Attack.jpg | 第 7 章 | 電磁パルス攻撃 |
+| S13_Ch07_Recording_Device_Found.jpg | 第 7 章 | 記録装置の発見 |
+| S14_Ch08_Deepfake_Video.jpg | 第 8 章 | ディープフェイク動画の拡散 |
+| S15_Ch08_Koryo_Board_Meeting.jpg | 第 8 章 | 光稜精機の取締役会 |
+| S16_Ch09_Rescue_of_Lin.jpg | 第 9 章 | リンの救出（暴力や負傷の描写を含まない） |
+| S17_Ch10_Riem_Decision.jpg | 第 10 章 | リームの決断 |
+| S18_Ch11_Lin_Returns.jpg | 第 11 章 | リンの帰還 |
+| S19_Ch12_Persistent_Homology.jpg | 第 12 章 | 9 つの危機のパーシステント・ホモロジー（可視化） |
+| S20_Ch13_Nash_Equilibrium.jpg | 第 13 章 | 4 者のナッシュ均衡（可視化） |
+| S21_Ch14_Portfolio_Surgery.jpg | 第 14 章 | 顧客ポートフォリオの手術（可視化） |
+| S22_Ch15_Symplectic_Voyage_Chart.jpg | 第 15 章 | シンプレクティック航海図（可視化） |
+| S23_Ch16_Sheaf_Inconsistency.jpg | 第 16 章 | 層理論による組織の不整合の検知（可視化） |
+| S24_Ch17_Security_Hardening.jpg | 第 17 章 | セキュリティ体制の強化 |
+| S25_Ch17_Cambridge_Report.jpg | 第 17 章 | ケンブリッジでの報告 |
+| S26_Ch18_Formal_Verification.jpg | 第 18 章 | 形式検証の限界を指摘するリン |
+| S27_Ch19_Final_Board_Meeting.jpg | 第 19 章 | 最終取締役会 |
+| S28_Ch20_Epilogue.jpg | 第 20 章 | エピローグ |
+
 ## 生成方法と編集
 
 すべての画像は、Étale Cohomology が指示・キュレーションのもとで Google Gemini により生成された。生成後の編集 (色調補正、トリミング、レイアウト調整など) は本作品の物語的目的に応じて施されている。
