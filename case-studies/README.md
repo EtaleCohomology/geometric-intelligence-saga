@@ -10,7 +10,7 @@ GI (Geometric Intelligence) 理論を様々な領域に適用したケースス�
 - **01_casestudy_GI_theory_mapping**: ケーススタディとGI 理論との対応関係（理論書の各項目とケーススタティ内でのデータ解析実務手順解説との対応関係）
 - **02_mathematics**: 使用された数学の解説
 - **03_python_scripts**: 実装スクリプト
-- **04_industry_knowledge**: 業界・分野ドメイン知識
+- **04_industry_knowledge**: 業界・分野ドメイン知識（政府編では 04_domain_knowledge）
 
 加えて、各ケーススタディには `IMAGE_CREDITS.md` が含まれる。本作品で使用される画像は Google Gemini により生成されたものであり、その旨を明示している。
 
@@ -19,8 +19,8 @@ GI (Geometric Intelligence) 理論を様々な領域に適用したケースス�
 ### 企業編
 [corporate/](corporate/) — 業界別ケーススタディ
 
-### 政府編 (公開予定)
-国家政策ケーススタディ — 国家安全保障政策編、少子高齢化政策編 など
+### 政府編
+[government/](government/) — 国家政策ケーススタディ（日本の経済安全保障編）。国家安全保障政策編、少子高齢化政策編 などを順次公開予定
 
 ### 地方自治体編 (公開予定)
 地方政策ケーススタディ — 社会福祉政策編 など
