@@ -37,13 +37,23 @@
 | ja/03_python_scripts.pdf | 実装スクリプト集 | 公開済み |
 | ja/04_industry_knowledge.pdf | 業界・分野ドメイン知識 | 公開済み |
 
+### 画像 ([images/](images/))
+
+| フォルダ・ファイル | 内容 |
+|---------|------|
+| images/00_Front_Cover.png | 表紙 |
+| images/01_Title_Illustration.png | 扉絵 |
+| images/99_Back_Cover.png | 裏表紙 |
+| images/characters/ | キャラクター肖像（16 点） |
+| images/scenes/ | シーンの挿絵と数学的可視化（13 点） |
+
 ### 英語版 (en/) — 公開準備中
 
 ### フランス語版 (fr/) — 公開準備中
 
 ## 画像について
 
-本作品に含まれる画像 (キャラクター肖像、シーン挿絵、数学的可視化、表紙) は、すべて Google Gemini により生成されたものである。詳細は [IMAGE_CREDITS.md](IMAGE_CREDITS.md) を参照。
+本作品に含まれる画像 (キャラクター肖像、シーン挿絵、数学的可視化、表紙) は、すべて Google Gemini により生成されたものである。画像ファイルは [images/](images/) に収録している。一覧と詳細は [IMAGE_CREDITS.md](IMAGE_CREDITS.md) を参照。
 
 ## 関連作品
 
