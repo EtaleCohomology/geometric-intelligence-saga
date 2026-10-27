@@ -2,57 +2,6 @@
 
 本作品「生存の幾何学 — 綾鳥テキスタイル株式会社 14ヶ月の戦争」に含まれるすべての画像は、Google Gemini により Étale Cohomology の指示のもとで生成されたものである。本ドキュメントはその透明な開示を目的とする。
 
-## 画像ファイル一覧
-
-すべての画像は [images/](images/) フォルダに収録している。ファイル名の番号は本編での掲載順である。
-
-### 表紙・扉・裏表紙
-
-| ファイル | 内容 |
-|---------|------|
-| [00_Front_Cover.png](images/00_Front_Cover.png) | 表紙 |
-| [01_Title_Illustration.png](images/01_Title_Illustration.png) | 扉絵（タイトル画像） |
-| [99_Back_Cover.png](images/99_Back_Cover.png) | 裏表紙 |
-
-### キャラクター肖像 ([images/characters/](images/characters/))
-
-| ファイル | 人物 |
-|---------|------|
-| P01_Riem_Stream_1.jpg | リーム・ストリーム（1） |
-| P02_Riem_Stream_2.jpg | リーム・ストリーム（2） |
-| P03_Professor_Liluru.jpg | リルル先生 |
-| P04_Professor_Kurata.jpg | 倉田教授 |
-| P05_Yuki.jpg | ユキ |
-| P06_Kaito.jpg | カイト |
-| P07_Lin_1.jpg | リン（1） |
-| P08_Lin_2.jpg | リン（2） |
-| P09_Sofia_Mercator.jpg | ソフィア・メルカトル |
-| P10_Yamanouchi.jpg | 山之内 |
-| P11_Ryuji_Tachibana.jpg | 橘龍司 |
-| P12_Keiko_Nishimura.jpg | 西村恵子 |
-| P13_Takumi_Hasegawa.jpg | 長谷川拓海 |
-| P14_Shuhei_Otani.jpg | 大谷修平 |
-| P15_Aiko_Morimoto.jpg | 森本愛子 |
-| P16_Shin_Takeda.jpg | 武田慎 |
-
-### シーンの挿絵と数学的可視化 ([images/scenes/](images/scenes/))
-
-| ファイル | 章 | 内容 |
-|---------|----|------|
-| S01_Prologue_Riem_Phone_Call.jpg | プロローグ | 綾鳥からの緊急の電話を受けるリーム |
-| S02_Ch01_Kickoff_Meeting.jpg | 第 1 章 | 綾鳥本社でのキックオフ会議 |
-| S03_Ch02_Three_Clusters.jpg | 第 2 章 | 潜在空間の 3 つの孤立クラスター（可視化） |
-| S04_Ch03_Curvature_Terrain.jpg | 第 3 章 | 経営環境多様体の曲率地形図（可視化） |
-| S05_Ch04_Lie_Bracket_Brand_Reputation.jpg | 第 4 章 | サイバー攻撃と通商政策のリー括弧（可視化） |
-| S06_Ch05_Counterfeit_Network.jpg | 第 5 章 | 偽造品のネットワークの検知 |
-| S07_Ch06_Supply_Chain_Surgery.jpg | 第 6 章 | サプライチェーンの手術（可視化） |
-| S08_Ch07_Lin_Decision.jpg | 第 7 章 | リンの決断 |
-| S09_Ch08_Sheaf_Insider_Detection.jpg | 第 8 章 | 層理論による内部情報漏洩の検知（可視化） |
-| S10_Ch09_Classical_Wisdom.jpg | 第 9 章 | 古今東西の言葉を語る倉田教授とチーム |
-| S11_Ch10_Agent_Hierarchy.jpg | 第 10 章 | 14 体の AI エージェントの監視体制（可視化） |
-| S12_Ch11_Project_Mirror_Dashboard.jpg | 第 11 章 | Project Mirror ダッシュボード |
-| S13_Ch12_Epilogue.jpg | 第 12 章 | エピローグ |
-
 ## 表紙・裏表紙
 
 - **表紙** — Google Gemini により生成
@@ -109,6 +58,57 @@ GI 理論分析の概念図 (経営環境多様体の 3D 地形図、スカラ�
 - 最適制御の測地線 (危険地帯からの脱出経路)
 - パーシステント・ホモロジーのパーシステンス図
 - Project Mirror ダッシュボード (取締役会への最終納品)
+
+## 画像ファイル一覧
+
+すべての画像は [images/](images/) フォルダに収録している。ファイル名の番号は本編での掲載順である。
+
+### 表紙・扉・裏表紙
+
+| ファイル | 内容 |
+|---------|------|
+| [00_Front_Cover.png](images/00_Front_Cover.png) | 表紙 |
+| [01_Title_Illustration.png](images/01_Title_Illustration.png) | 扉絵（タイトル画像） |
+| [99_Back_Cover.png](images/99_Back_Cover.png) | 裏表紙 |
+
+### キャラクター肖像 ([images/characters/](images/characters/))
+
+| ファイル | 人物 |
+|---------|------|
+| P01_Riem_Stream_1.jpg | リーム・ストリーム（1） |
+| P02_Riem_Stream_2.jpg | リーム・ストリーム（2） |
+| P03_Professor_Liluru.jpg | リルル先生 |
+| P04_Professor_Kurata.jpg | 倉田教授 |
+| P05_Yuki.jpg | ユキ |
+| P06_Kaito.jpg | カイト |
+| P07_Lin_1.jpg | リン（1） |
+| P08_Lin_2.jpg | リン（2） |
+| P09_Sofia_Mercator.jpg | ソフィア・メルカトル |
+| P10_Yamanouchi.jpg | 山之内 |
+| P11_Ryuji_Tachibana.jpg | 橘龍司 |
+| P12_Keiko_Nishimura.jpg | 西村恵子 |
+| P13_Takumi_Hasegawa.jpg | 長谷川拓海 |
+| P14_Shuhei_Otani.jpg | 大谷修平 |
+| P15_Aiko_Morimoto.jpg | 森本愛子 |
+| P16_Shin_Takeda.jpg | 武田慎 |
+
+### シーンの挿絵と数学的可視化 ([images/scenes/](images/scenes/))
+
+| ファイル | 章 | 内容 |
+|---------|----|------|
+| S01_Prologue_Riem_Phone_Call.jpg | プロローグ | 綾鳥からの緊急の電話を受けるリーム |
+| S02_Ch01_Kickoff_Meeting.jpg | 第 1 章 | 綾鳥本社でのキックオフ会議 |
+| S03_Ch02_Three_Clusters.jpg | 第 2 章 | 潜在空間の 3 つの孤立クラスター（可視化） |
+| S04_Ch03_Curvature_Terrain.jpg | 第 3 章 | 経営環境多様体の曲率地形図（可視化） |
+| S05_Ch04_Lie_Bracket_Brand_Reputation.jpg | 第 4 章 | サイバー攻撃と通商政策のリー括弧（可視化） |
+| S06_Ch05_Counterfeit_Network.jpg | 第 5 章 | 偽造品のネットワークの検知 |
+| S07_Ch06_Supply_Chain_Surgery.jpg | 第 6 章 | サプライチェーンの手術（可視化） |
+| S08_Ch07_Lin_Decision.jpg | 第 7 章 | リンの決断 |
+| S09_Ch08_Sheaf_Insider_Detection.jpg | 第 8 章 | 層理論による内部情報漏洩の検知（可視化） |
+| S10_Ch09_Classical_Wisdom.jpg | 第 9 章 | 古今東西の言葉を語る倉田教授とチーム |
+| S11_Ch10_Agent_Hierarchy.jpg | 第 10 章 | 14 体の AI エージェントの監視体制（可視化） |
+| S12_Ch11_Project_Mirror_Dashboard.jpg | 第 11 章 | Project Mirror ダッシュボード |
+| S13_Ch12_Epilogue.jpg | 第 12 章 | エピローグ |
 
 ## 生成方法と編集
 
