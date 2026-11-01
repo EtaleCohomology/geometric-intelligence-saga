@@ -12,7 +12,8 @@ These tutorials are not substitutes for Volumes 1 and 2. They prepare readers to
 
 ## Contents
 
-For first-time readers, we recommend the following order: `vae_to_socioeconomic_map/` → `gi_theory_introduction_JA.pdf` → `gi_metrics_and_manifolds_overview_JA.pdf`
+For first-time readers, we recommend the following order: 
+`vae_to_socioeconomic_map/` → `gi_theory_introduction_JA.pdf` → `gi_metrics_and_manifolds_overview_JA.pdf` → `gi_practice_materials/`
 
 ### `vae_to_socioeconomic_map/`
 
@@ -57,6 +58,14 @@ A parallel-track training document: a "basic" track for readers with high-school
 - Chapter 7: Other geometries used in the series (symplectic, Weyl, information geometry, hyperbolic, sub-Riemannian, optimal transport)
 
 Japanese only (for now). Approximately 31 pages.
+
+### `gi_practice_materials/`
+
+*GI theory practice materials (four documents).*
+
+Teaching materials that use the case study novels (by industry and policy domain) to organise, across the works, the workflow from building a manifold from data (the quality checklist), to analysing it, to demonstrating to stakeholders that the pipeline is correct. The folder contains four documents: the quality checklist (standard and detailed editions), analyses on the finished manifold, and verification and accountability.
+
+Japanese only (for now). See the README in the folder for details of each document.
 
 ## Licence
 
