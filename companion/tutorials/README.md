@@ -12,6 +12,21 @@ These tutorials are not substitutes for Volumes 1 and 2. They prepare readers to
 
 ## Contents
 
+For first-time readers, we recommend the following order: `vae_to_socioeconomic_map/` → `gi_theory_introduction_JA.pdf` → `gi_metrics_and_manifolds_overview_JA.pdf`
+
+### `vae_to_socioeconomic_map/`
+
+*Turning a VAE latent space into a "map for socioeconomic analysis": three conditions for introducing a Riemannian metric.*
+
+The first article in the Qiita series "Geometric Intelligence" (first published March 10, 2026; fully revised November 1, 2026). It covers:
+
+- How a VAE works and why its latent space is built from probability distributions (including β-VAE and disentanglement)
+- Why the latent space of socioeconomic data cannot be used as a "map" as it is
+- The three conditions for laying a ruler (Riemannian metric) on a latent space, plus smoothness
+- Data constraints by industry and policy domain, and the trial and error needed to satisfy the conditions (from fictional case studies)
+
+Japanese only (for now). Approximately 27 pages. Recommended as the first document to read in this directory.
+
 ### `gi_theory_introduction_JA.pdf`
 
 *An introduction to GI theory for readers with high-school mathematics.*
@@ -27,10 +42,11 @@ A self-contained introduction covering:
 
 Japanese only (for now). Approximately 48 pages.
 
-## Licence
+### `gi_metrics_and_manifolds_overview_JA.pdf`
 
-CC BY 4.0.
+*An overview of the metric and manifold concepts most likely to be relevant to industrial applications of GI theory.*
 
-## Contact
+A parallel-track training document: a "basic" track for readers with high-school mathematics and an "advanced" track for undergraduate-level readers, presented side by side. It covers:
 
-etalecohomology2026@proton.me
+- Chapter 1: Manifolds and maps (differentiable structure, the level of smoothness required by GI theory, tangent spaces)
+- Chapter 2: Riemannian metrics
