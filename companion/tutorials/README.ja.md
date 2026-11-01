@@ -13,6 +13,9 @@
 
 ## 収録内容
 
+はじめて読む方は、次の順番をお勧めします：
+vae_to_socioeconomic_map/ → gi_theory_introduction_JA.pdf → gi_metrics_and_manifolds_overview_JA.pdf
+
 ### `vae_to_socioeconomic_map/`
 
 **VAEの潜在空間を「社会経済分析の地図」に変えるには？ ―― リーマン計量を導入するための3つの条件**
