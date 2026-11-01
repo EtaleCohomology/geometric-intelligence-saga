@@ -14,7 +14,7 @@
 ## 収録内容
 
 はじめて読む方は、次の順番をお勧めします：
-vae_to_socioeconomic_map/ → gi_theory_introduction_JA.pdf → gi_metrics_and_manifolds_overview_JA.pdf
+vae_to_socioeconomic_map/ → gi_theory_introduction_JA.pdf → gi_metrics_and_manifolds_overview_JA.pdf → gi_practice_materials/
 
 ### `vae_to_socioeconomic_map/`
 
