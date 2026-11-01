@@ -49,4 +49,19 @@ Japanese only (for now). Approximately 48 pages.
 A parallel-track training document: a "basic" track for readers with high-school mathematics and an "advanced" track for undergraduate-level readers, presented side by side. It covers:
 
 - Chapter 1: Manifolds and maps (differentiable structure, the level of smoothness required by GI theory, tangent spaces)
-- Chapter 2: Riemannian metrics
+- Chapter 2: Riemannian metrics and their generalisations (pullback metric, positive definiteness and the full-rank condition, connections and curvature)
+- Chapter 3: Finsler and Randers metrics (distance in a space with "wind", Zermelo's navigation problem)
+- Chapter 4: H¹ cohomology (holes and paths, zigzag persistence)
+- Chapter 5: The mathematics of geodesics
+- Chapter 6: Optimal control (Hamiltonians, adjoint variables, Pontryagin's maximum principle)
+- Chapter 7: Other geometries used in the series (symplectic, Weyl, information geometry, hyperbolic, sub-Riemannian, optimal transport)
+
+Japanese only (for now). Approximately 31 pages.
+
+## Licence
+
+CC BY 4.0.
+
+## Contact
+
+etalecohomology2026@proton.me
