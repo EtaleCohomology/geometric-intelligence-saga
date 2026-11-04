@@ -35,8 +35,8 @@ Main topics:
 
 ## Suggested Reading Order
 
-1. This tutorial (series part 1) — the conditions for laying a ruler on a latent space
-2. Series part 2 (forthcoming) — measuring distances with the Riemannian metric and telling "plains" from "cliffs" by curvature, on a map that satisfies the conditions
+1. This tutorial (series part 1) — the conditions for laying a ruler on a latent space ([Qiita article](https://qiita.com/etale_cohomology/items/4797140237582e711c88))
+2. [Series part 2](../reading_current_position_shape/) — reading the shape of "where we stand now" on a map that satisfies the conditions: true distances with the Riemannian metric, "cliffs" by the sign of curvature, valleys, passes and peaks with Morse theory, and connectivity with persistent homology and sheaves ([Qiita article](https://qiita.com/etale_cohomology/items/940ecb65278977f3d7fd))
 3. [gi_theory_introduction_JA.pdf](../gi_theory_introduction_JA.pdf) — a systematic introduction to GI theory
 
 ## Related Material
