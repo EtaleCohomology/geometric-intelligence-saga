@@ -13,7 +13,7 @@ These tutorials are not substitutes for Volumes 1 and 2. They prepare readers to
 ## Contents
 
 For first-time readers, we recommend the following order: 
-`vae_to_socioeconomic_map/` → `gi_theory_introduction_JA.pdf` → `gi_metrics_and_manifolds_overview_JA.pdf` → `gi_practice_materials/`
+`vae_to_socioeconomic_map/` → `reading_current_position_shape/` → `gi_theory_introduction_JA.pdf` → `gi_metrics_and_manifolds_overview_JA.pdf` → `gi_practice_materials/`
 
 ### `vae_to_socioeconomic_map/`
 
@@ -27,6 +27,20 @@ The first article in the Qiita series "Geometric Intelligence" (first published 
 - Data constraints by industry and policy domain, and the trial and error needed to satisfy the conditions (from fictional case studies)
 
 Japanese only (for now). Approximately 27 pages. Recommended as the first document to read in this directory.
+
+### `reading_current_position_shape/`
+
+*Reading the shape of "where we stand now" on a socioeconomic map: finding "cliffs" and "passes" with curvature and Morse theory.*
+
+The second article in the Qiita series "Geometric Intelligence" (published November 5, 2026). It covers:
+
+- True distances measured with the Riemannian metric, and reading the sign of scalar curvature
+- Morse theory: valleys, passes and peaks, degenerate critical points, and tipping points (including early-warning indicators of slowing recovery)
+- Persistent homology, Mapper and sheaves, and how they differ from widely used methods (UMAP, clustering, anomaly detection, VaR)
+- How TDA differs from GI theory
+- Python code (JAX) that checks the three conditions, curvature and critical points on shapes with known answers
+
+Japanese only (for now). Approximately 50 pages, with code. Recommended as the second document to read in this directory.
 
 ### `gi_theory_introduction_JA.pdf`
 
