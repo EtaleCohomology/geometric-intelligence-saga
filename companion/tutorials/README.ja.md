@@ -14,7 +14,7 @@
 ## 収録内容
 
 はじめて読む方は、次の順番をお勧めします：
-vae_to_socioeconomic_map/ → gi_theory_introduction_JA.pdf → gi_metrics_and_manifolds_overview_JA.pdf → gi_practice_materials/
+vae_to_socioeconomic_map/ → reading_current_position_shape/ → gi_theory_introduction_JA.pdf → gi_metrics_and_manifolds_overview_JA.pdf → gi_practice_materials/
 
 ### `vae_to_socioeconomic_map/`
 
@@ -30,6 +30,22 @@ Qiitaの連載「ジオメトリック・インテリジェンス」の第1回�
 - 業界・政策領域ごとのデータの制約と、条件を満たすための試行錯誤（架空のケーススタディより）
 
 日本語のみ（現時点）。約27ページ。本ディレクトリの最初に読む資料として推奨する。
+
+### `reading_current_position_shape/`
+
+**社会経済の地図で「いま立っている場所」のかたちを読む ―― 曲率とモース理論で、地形の「崖」と「峠」を見つける**
+
+Qiitaの連載「ジオメトリック・インテリジェンス」の第2回の記事（2026年11月5日公開）。
+
+以下を扱う:
+
+- リーマン計量で測る本当の近さと、スカラー曲率の符号の読み方
+- モース理論：谷底・峠・山頂、退化した臨界点、転換点（回復の遅れの早期警戒の指標を含む）
+- パーシステント・ホモロジー、Mapper、層と、広く使われている分析手法（UMAP、クラスタリング、異常検知、VaR）との違い
+- TDA と GI理論の違い
+- 答えが分かっている形で、3つの条件、曲率、臨界点を確かめるPythonのコード（JAX）
+
+日本語のみ（現時点）。約50ページ、コード付き。本ディレクトリで2番目に読む資料として推奨する。
 
 ### `gi_theory_introduction_JA.pdf`
 
