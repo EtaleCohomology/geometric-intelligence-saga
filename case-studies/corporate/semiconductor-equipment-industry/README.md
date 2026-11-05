@@ -60,6 +60,7 @@
 
 - 繊維業界編「生存の幾何学」: [../textile-industry/](../textile-industry/)
 - 建設業界編「弧月の測地線」: [../construction-industry/](../construction-industry/)
+- 半導体製造装置業界編（第2作）「光稜の巡回差」（光稜精機の続編）: [../semiconductor-equipment-industry-2/](../semiconductor-equipment-industry-2/)
 - ジオメトリック・インテリジェンス Vol.1: [theory/Vol1/](../../../theory/Vol1/)
 - ジオメトリック・インテリジェンス Vol.2: [theory/Vol2/](../../../theory/Vol2/)
 - ジオメトリック・インテリジェンス・コンパニオン: [companion/](../../../companion/)
