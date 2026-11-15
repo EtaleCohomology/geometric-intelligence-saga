@@ -13,7 +13,7 @@ These tutorials are not substitutes for Volumes 1 and 2. They prepare readers to
 ## Contents
 
 For first-time readers, we recommend the following order: 
-`vae_to_socioeconomic_map/` → `reading_current_position_shape/` → `gi_theory_introduction_JA.pdf` → `gi_metrics_and_manifolds_overview_JA.pdf` → `gi_practice_materials/`
+`vae_to_socioeconomic_map/` → `reading_current_position_shape/` → `gi_theory_introduction_JA.pdf` → `gi_metrics_and_manifolds_overview_JA.pdf` → `gi_practice_materials/` → `deciding_how_to_move/` → `building_map_from_real_data/` → `kgi_kpi_and_existing_metrics/` → `labels_give_meaning_to_vae/` → `expert_coordinates_and_data_map/` → `fisher_metric_on_expert_coordinates/`
 
 ### `vae_to_socioeconomic_map/`
 
@@ -41,6 +41,44 @@ The second article in the Qiita series "Geometric Intelligence" (published Novem
 - Python code (JAX) that checks the three conditions, curvature and critical points on shapes with known answers
 
 Japanese only (for now). Approximately 50 pages, with code. Recommended as the second document to read in this directory.
+### `deciding_how_to_move/`
+
+*Deciding "how to move" on a socioeconomic map.*
+
+Code for the third article in the Qiita series "Geometric Intelligence". It covers:
+
+- Choosing the most natural path (geodesic) on a map that has passed the three conditions
+- The effect of the order of policies (Lie brackets)
+- Treating policies as interventions in a flow (Neural ODE, optimal control), and checking how reliable a path is
+- Python code (JAX) for three experiments: a geodesic going around a hill, the Lie bracket in parallel parking, and relearning a flow and the skeleton of the terrain with a Neural ODE
+
+Japanese only (for now). With code.
+
+### `building_map_from_real_data/`
+
+*Building a "map" from real socioeconomic data.*
+
+Code for the fourth article in the Qiita series "Geometric Intelligence". It covers:
+
+- Choosing data backwards from the question the map should answer
+- Real-data problems (record linkage, granularity, units, missing values, outliers, reporting lags and revisions, structural change, data that cannot leave an organisation) and how to treat them
+- Diagnosing which of the three conditions failed, and how to fix it
+- Python code (JAX) that turns a shape with a known answer into deliberately messy data and checks how different preprocessing changes the three conditions
+
+Japanese only (for now). With code.
+
+### `kgi_kpi_and_existing_metrics/`
+
+*Speedometer and terrain: reading business intelligence from the map alongside existing metrics.*
+
+Code for Part 5 of the Qiita series "Invitation to Geometric Intelligence". It covers:
+
+- Reading existing metrics (VaR, expected shortfall, KRI) side by side with business intelligence from the map (distance to the cliff), on fictional data
+- Checking "earlier warning" (hits, misses, false alarms, lead time; evaluated on held-out periods)
+- The numbers for a one-page board view of the fictional company "Étale Heavy Industries"
+- Code to draw the article's figures
+
+Japanese only (for now). With code.
 
 ### `gi_theory_introduction_JA.pdf`
 
@@ -81,6 +119,47 @@ Teaching materials that use the case study novels (by industry and policy domain
 
 Japanese only (for now). See the README in the folder for details of each document.
 
+### `labels_give_meaning_to_vae/`
+
+*Giving meaning to a VAE's latent space with labels: four representative papers on semi-supervised and conditional VAEs.*
+
+Code for a Qiita article (to be published soon). It covers:
+
+- Why the axes of a latent space learned without labels usually have no meaning (Locatello et al., 2019)
+- Representative papers that give meaning to the axes with a few labels (semi-supervised VAE, latent constraints, conditional subspace VAE, VAE for regression), and semantic directions
+- Comparing informativeness and alignment as the number of labels changes, and comparing joint training with post-hoc conditioning
+- Python code (JAX) that checks these ideas on fictional data
+
+Japanese only (for now). With code.
+
+### `expert_coordinates_and_data_map/`
+
+*GI theory side story: connecting expert coordinates and the data map — bringing Gluzman's Strategic Manifold into Geometric Intelligence.*
+
+Code for a Qiita article (to be published soon). It covers:
+
+- Two methods for connecting coordinates whose meaning is defined by human experts (the four axes of Gluzman's Strategic Manifold) to a data map built with a VAE
+- The pullback metric (ruler) on expert coordinates, the minimum singular value, geodesics and curvature
+- Why to start with a linear map when there are few cases, keeping a per-case residual (Method 2+), and verbal levels of expert coordinates
+- Handling the corners of the cube (how the apparent metric depends on the chart used)
+- Python code (JAX) that checks these ideas on fictional data
+
+Japanese only (for now). With code.
+
+### `fisher_metric_on_expert_coordinates/`
+
+*GI theory side story: can Gluzman's Strategic Manifold, which has no ruler (metric), be embedded into the business-environment manifold of GI theory? — measuring human experts' coordinates with the Fisher metric.*
+
+Code for a Qiita article (published November 16, 2026: https://qiita.com/etale_cohomology/items/7c083c3021b0b826c892 ). It covers:
+
+- Two rulers on expert coordinates (the pullback metric, measured by how the data move, and the Fisher metric, measured by how the probability of an outcome changes)
+- Why the Fisher metric measures length in only one direction when the only outcome is a single binary one (rank 1)
+- Reading the direction where the two rulers disagree as a direction the data map overlooks
+- Testing the functional form of the stability index Σ by comparing nested models (likelihood-ratio test)
+- Python code (JAX) that checks these ideas on fictional data
+
+Japanese only (for now). With code.
+
 ## Licence
 
 CC BY 4.0.
@@ -88,3 +167,4 @@ CC BY 4.0.
 ## Contact
 
 etalecohomology2026@proton.me
+
