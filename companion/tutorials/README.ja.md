@@ -14,7 +14,7 @@
 ## 収録内容
 
 はじめて読む方は、次の順番をお勧めします：
-vae_to_socioeconomic_map/ → reading_current_position_shape/ → gi_theory_introduction_JA.pdf → gi_metrics_and_manifolds_overview_JA.pdf → gi_practice_materials/
+vae_to_socioeconomic_map/ → reading_current_position_shape/ → gi_theory_introduction_JA.pdf → gi_metrics_and_manifolds_overview_JA.pdf → gi_practice_materials/ → deciding_how_to_move/ → building_map_from_real_data/ → kgi_kpi_and_existing_metrics/ → labels_give_meaning_to_vae/ → expert_coordinates_and_data_map/ → fisher_metric_on_expert_coordinates/
 
 ### `vae_to_socioeconomic_map/`
 
@@ -46,6 +46,50 @@ Qiitaの連載「ジオメトリック・インテリジェンス」の第2回�
 - 答えが分かっている形で、3つの条件、曲率、臨界点を確かめるPythonのコード（JAX）
 
 日本語のみ（現時点）。約50ページ、コード付き。本ディレクトリで2番目に読む資料として推奨する。
+### `deciding_how_to_move/`
+
+**社会経済の地図の上で「どう動くか」を決める**
+
+Qiitaの連載「ジオメトリック・インテリジェンス」の第3回の記事のコード。
+
+以下を扱う:
+
+- 条件に合格した地図の上で、最も無理のない道筋（測地線）を選ぶ方法
+- 施策の順番の効果（Lie括弧）
+- 施策を流れへの介入として扱う方法（Neural ODE、最適制御）と、道筋の確からしさの確かめ方
+- 丘のある地形の測地線、縦列駐車のLie括弧、Neural ODEで流れと地形の骨組みを学び直す、3つの実験のPythonのコード（JAX）
+
+日本語のみ（現時点）。コード付き。
+
+### `building_map_from_real_data/`
+
+**本物の社会経済データから「地図」を作るまでの道のり**
+
+Qiitaの連載「ジオメトリック・インテリジェンス」の第4回の記事のコード。
+
+以下を扱う:
+
+- 地図に入れるデータを、分析の問いから逆算して選ぶ考え方
+- 実データの問題（名寄せ、粒度、単位、欠測、外れ値、更新の遅れと改定、構造の変化、外に出せないデータ）と手当て
+- 3つの条件のどれに落ちたかで、原因の見当をつけて直す方法
+- 答えが分かっている形を、わざと乱れたデータに変え、前処理の違いが3つの条件をどう変えるかを確かめるPythonのコード（JAX）
+
+日本語のみ（現時点）。コード付き。
+
+### `kgi_kpi_and_existing_metrics/`
+
+**速度計と地形 ── 地図から得た経営インテリジェンスと、既存の指標を並べて読む**
+
+Qiitaの連載「Geometric Intelligence論への招待」の第5回の記事のコード。
+
+以下を扱う:
+
+- 既存の指標（VaR、期待ショートフォール、KRI）と、地図から得た経営インテリジェンス（崖までの近さ）を、架空のデータで並べて読む
+- 「早く気づける」かの確かめ（当たり・見逃し・空振り・先行期間。学習に使っていない期間で評価）
+- 架空の会社「エタール重工株式会社」の、経営会議の1枚の数値
+- 記事の図を描くコード
+
+日本語のみ（現時点）。コード付き。
 
 ### `gi_theory_introduction_JA.pdf`
 
@@ -86,6 +130,53 @@ Qiitaの連載「ジオメトリック・インテリジェンス」の第2回�
 
 日本語のみ（現時点）。各教材の内容は、フォルダ内のREADMEを参照。
 
+### `labels_give_meaning_to_vae/`
+
+**ラベルで VAE の潜在空間に意味を与える ── 半教師つき・条件つき VAE の代表的な4本の論文**
+
+Qiitaの記事（近日公開）のコード。
+
+以下を扱う:
+
+- ラベルを使わずに学習した潜在空間の軸に、ふつう意味がない理由（Locatelloほか、2019年）
+- 少しのラベルで軸に意味を与える代表的な論文（半教師つきVAE、潜在制約、条件つき部分空間VAE、回帰のためのVAE）と、意味の方向
+- ラベルの数を変えたときの、情報量と並びの比較。同時に学習する方法と、後から条件づける方法の比較
+- 架空のデータで確かめるPythonのコード（JAX）
+
+日本語のみ（現時点）。コード付き。
+
+### `expert_coordinates_and_data_map/`
+
+**【GI理論 番外編】専門家の座標と、データの地図をつなぐ ── Gluzman 氏の戦略多様体を、ジオメトリック・インテリジェンスに取り込む**
+
+Qiitaの記事（近日公開）のコード。
+
+以下を扱う:
+
+- 人間の専門家が意味を決めた座標（Gluzman 氏の Strategic Manifold の4つの軸）を、VAEで作ったデータの地図につなぐ2つの方法
+- 専門家の座標の上の引き戻し計量（定規）、最小特異値、測地線、曲率
+- 少ない事例では写像を直線から始める理由、事例ごとの残りを持つ方法（方法２＋）、言葉の段階の座標
+- 立方体の角の扱い（測る座標で見かけが変わること）
+- 架空のデータで確かめるPythonのコード（JAX）
+
+日本語のみ（現時点）。コード付き。
+
+### `fisher_metric_on_expert_coordinates/`
+
+**【GI理論 番外編】Gluzman氏の定規（計量）のないStrategic Manifoldは、GI理論の経営環境多様体に組み込めるか？ ── フィッシャー計量で人間の専門家の座標を測る**
+
+Qiitaの記事（2026年11月16日公開。https://qiita.com/etale_cohomology/items/7c083c3021b0b826c892 ）のコード。
+
+以下を扱う:
+
+- 専門家の座標の上の、2つの定規（データの動きで測る引き戻し計量と、結果の確率で測るフィッシャー計量）
+- 結果が1つの二値だけなら、フィッシャー計量は1つの方向にしか長さを測れないこと（階数が1）
+- 2つの定規が食い違う向きを、データの地図が見落としている向きとして読む方法
+- 安定性の式 Σ の形を、入れ子のモデルの比較（尤度比検定）で確かめる方法
+- 架空のデータで確かめるPythonのコード（JAX）
+
+日本語のみ（現時点）。コード付き。
+
 ## ライセンス
 
 CC BY 4.0。
@@ -93,3 +184,4 @@ CC BY 4.0。
 ## 連絡先
 
 etalecohomology2026@proton.me
+
