@@ -1,3 +1,5 @@
+[English](./README.md) | [日本語](./README.ja.md)
+
 # Rank of the Fisher metric on expert coordinates (GI theory side story)
 
 Code for the Qiita article on whether Gluzman's Strategic Manifold, which has no metric, can be embedded into the business-environment manifold of GI theory (in Japanese).
@@ -8,6 +10,12 @@ On fictional data, the script runs four experiments:
 - `rank`: the Fisher metric has rank 1 when the only outcome is a single binary one
 - `two_rulers`: compare the pullback metric and the Fisher metric at the same point and find the direction where they disagree
 - `sigma_test`: test the functional form of the stability index Σ by comparing nested models (likelihood-ratio test)
+
+## Material
+
+📄 [fisher_metric_on_expert_coordinates_JA.pdf](./fisher_metric_on_expert_coordinates_JA.pdf) (Japanese, 99 pages). A PDF version, with images, of the Qiita article "GI theory side story: can Gluzman's Strategic Manifold, which has no ruler (metric), be embedded into the business-environment manifold of GI theory? — measuring human experts' coordinates with the Fisher metric". The article is at https://qiita.com/etale_cohomology/items/7c083c3021b0b826c892 .
+
+The characters and scenes in the dialogue sections of the article are fiction written by the author.
 
 ## How to run
 

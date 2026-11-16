@@ -160,6 +160,8 @@ Code for a Qiita article (published November 16, 2026: https://qiita.com/etale_c
 
 Japanese only (for now). With code.
 
+PDF of the article (Japanese, 99 pages): [fisher_metric_on_expert_coordinates_JA.pdf](./fisher_metric_on_expert_coordinates/fisher_metric_on_expert_coordinates_JA.pdf)
+
 ## Licence
 
 CC BY 4.0.

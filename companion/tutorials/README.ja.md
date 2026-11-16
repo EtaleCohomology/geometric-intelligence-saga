@@ -177,6 +177,8 @@ Qiitaの記事（2026年11月16日公開。https://qiita.com/etale_cohomology/it
 
 日本語のみ（現時点）。コード付き。
 
+記事のPDF（日本語、99ページ）：[fisher_metric_on_expert_coordinates_JA.pdf](./fisher_metric_on_expert_coordinates/fisher_metric_on_expert_coordinates_JA.pdf)
+
 ## ライセンス
 
 CC BY 4.0。
