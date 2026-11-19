@@ -1,0 +1,142 @@
+# 画像の一覧 — 複式の境界
+
+本作品に含まれる画像は、すべて画像生成 AI により生成されたものである。登場人物と会社は、すべて架空の存在である。
+
+| 番号 | ファイル |
+|---:|---|
+| 1 | [images/fukushiki_cover.jpg](images/fukushiki_cover.jpg) |
+| 2 | [images/characters/FB_P01_Riem_Stream.jpg](images/characters/FB_P01_Riem_Stream.jpg) |
+| 3 | [images/characters/FB_P02_Professor_Liluru.jpg](images/characters/FB_P02_Professor_Liluru.jpg) |
+| 4 | [images/characters/FB_P03_Professor_Kurata.jpg](images/characters/FB_P03_Professor_Kurata.jpg) |
+| 5 | [images/characters/FB_P04_Lin.jpg](images/characters/FB_P04_Lin.jpg) |
+| 6 | [images/characters/FB_P05_Kaito.jpg](images/characters/FB_P05_Kaito.jpg) |
+| 7 | [images/characters/FB_P06_Yuki.jpg](images/characters/FB_P06_Yuki.jpg) |
+| 8 | [images/characters/FB_P07_Sophia_Mercator.jpg](images/characters/FB_P07_Sophia_Mercator.jpg) |
+| 9 | [images/characters/FB_P08_Yamanouchi.jpg](images/characters/FB_P08_Yamanouchi.jpg) |
+| 10 | [images/characters/FB_P09_Ryuji_Tachibana.jpg](images/characters/FB_P09_Ryuji_Tachibana.jpg) |
+| 11 | [images/characters/FB_M01_Victor_Nash.jpg](images/characters/FB_M01_Victor_Nash.jpg) |
+| 12 | [images/characters/FB_M02_Elena_Chen.jpg](images/characters/FB_M02_Elena_Chen.jpg) |
+| 13 | [images/characters/FB_M03_Dmitri_Kozlov.jpg](images/characters/FB_M03_Dmitri_Kozlov.jpg) |
+| 14 | [images/characters/FB_M04_Ken_Hasebe.jpg](images/characters/FB_M04_Ken_Hasebe.jpg) |
+| 15 | [images/characters/FB_M05_Jun_Sugita.jpg](images/characters/FB_M05_Jun_Sugita.jpg) |
+| 16 | [images/characters/FB_M06_Liam_Hartigan.jpg](images/characters/FB_M06_Liam_Hartigan.jpg) |
+| 17 | [images/characters/FB_M07_Klara_Weber.jpg](images/characters/FB_M07_Klara_Weber.jpg) |
+| 18 | [images/characters/FB_E01_Toru_Makabe.jpg](images/characters/FB_E01_Toru_Makabe.jpg) |
+| 19 | [images/characters/FB_E02_Reiji_Washio.jpg](images/characters/FB_E02_Reiji_Washio.jpg) |
+| 20 | [images/scenes/fukushiki_00_same_week.jpg](images/scenes/fukushiki_00_same_week.jpg) |
+| 21 | [images/scenes/fukushiki_01_elena_and_nash.jpg](images/scenes/fukushiki_01_elena_and_nash.jpg) |
+| 22 | [images/scenes/fukushiki_02_kaito_and_sugita.jpg](images/scenes/fukushiki_02_kaito_and_sugita.jpg) |
+| 23 | [images/scenes/fukushiki_03_riems_lines.jpg](images/scenes/fukushiki_03_riems_lines.jpg) |
+| 24 | [images/scenes/fukushiki_03b_Lin_explains_financial_modelling.jpg](images/scenes/fukushiki_03b_Lin_explains_financial_modelling.jpg) |
+| 25 | [images/scenes/fukushiki_03c_riem_explains_financial_modelling.jpg](images/scenes/fukushiki_03c_riem_explains_financial_modelling.jpg) |
+| 26 | [images/scenes/fukushiki_04_three_statements.jpg](images/scenes/fukushiki_04_three_statements.jpg) |
+| 27 | [images/scenes/fukushiki_04b_model_types.jpg](images/scenes/fukushiki_04b_model_types.jpg) |
+| 28 | [images/scenes/fukushiki_04c_modelling_rules.jpg](images/scenes/fukushiki_04c_modelling_rules.jpg) |
+| 29 | [images/scenes/fukushiki_05_two_layers.jpg](images/scenes/fukushiki_05_two_layers.jpg) |
+| 30 | [images/scenes/fukushiki_05b_accounting_links.jpg](images/scenes/fukushiki_05b_accounting_links.jpg) |
+| 31 | [images/scenes/fukushiki_05c_company_links.jpg](images/scenes/fukushiki_05c_company_links.jpg) |
+| 32 | [images/scenes/fukushiki_05d_two_readers.jpg](images/scenes/fukushiki_05d_two_readers.jpg) |
+| 33 | [images/scenes/fukushiki_05e_knots.jpg](images/scenes/fukushiki_05e_knots.jpg) |
+| 34 | [images/scenes/fukushiki_05f_two_maps.jpg](images/scenes/fukushiki_05f_two_maps.jpg) |
+| 35 | [images/scenes/fukushiki_05g_overlay.jpg](images/scenes/fukushiki_05g_overlay.jpg) |
+| 36 | [images/scenes/fukushiki_06_yuki_insight.jpg](images/scenes/fukushiki_06_yuki_insight.jpg) |
+| 37 | [images/scenes/fukushiki_07_the_bank_call.jpg](images/scenes/fukushiki_07_the_bank_call.jpg) |
+| 38 | [images/scenes/fukushiki_07a_account_mapping.jpg](images/scenes/fukushiki_07a_account_mapping.jpg) |
+| 39 | [images/scenes/fukushiki_07b_second_meeting.jpg](images/scenes/fukushiki_07b_second_meeting.jpg) |
+| 40 | [images/scenes/fukushiki_07c_hasebe_dinner.jpg](images/scenes/fukushiki_07c_hasebe_dinner.jpg) |
+| 41 | [images/scenes/fukushiki_08_public_code.jpg](images/scenes/fukushiki_08_public_code.jpg) |
+| 42 | [images/scenes/fukushiki_09_count_the_holes.jpg](images/scenes/fukushiki_09_count_the_holes.jpg) |
+| 43 | [images/scenes/fukushiki_10_the_jacobian.jpg](images/scenes/fukushiki_10_the_jacobian.jpg) |
+| 44 | [images/scenes/fukushiki_10_the_jacobian_table.jpg](images/scenes/fukushiki_10_the_jacobian_table.jpg) |
+| 45 | [images/scenes/fukushiki_11_storm_and_enemy.jpg](images/scenes/fukushiki_11_storm_and_enemy.jpg) |
+| 46 | [images/scenes/fukushiki_12_cliff_in_the_contract.jpg](images/scenes/fukushiki_12_cliff_in_the_contract.jpg) |
+| 47 | [images/scenes/fukushiki_12a_polyhedron.jpg](images/scenes/fukushiki_12a_polyhedron.jpg) |
+| 48 | [images/scenes/fukushiki_13a_six_lines_1to3.jpg](images/scenes/fukushiki_13a_six_lines_1to3.jpg) |
+| 49 | [images/scenes/fukushiki_13b_six_lines_4to6.jpg](images/scenes/fukushiki_13b_six_lines_4to6.jpg) |
+| 50 | [images/scenes/fukishiki_13c_finalcial_modelling_meets_manifold.jpg](images/scenes/fukishiki_13c_finalcial_modelling_meets_manifold.jpg) |
+| 51 | [images/scenes/fukushiki_14_the_first_plan.jpg](images/scenes/fukushiki_14_the_first_plan.jpg) |
+| 52 | [images/scenes/fukushiki_14a_first_plan_1to3.jpg](images/scenes/fukushiki_14a_first_plan_1to3.jpg) |
+| 53 | [images/scenes/fukushiki_14b_first_plan_4to6.jpg](images/scenes/fukushiki_14b_first_plan_4to6.jpg) |
+| 54 | [images/scenes/fukushiki_14c_two_cliffs.jpg](images/scenes/fukushiki_14c_two_cliffs.jpg) |
+| 55 | [images/scenes/fukushiki_14c_two_cliffs2.jpg](images/scenes/fukushiki_14c_two_cliffs2.jpg) |
+| 56 | [images/scenes/fukushiki_14d_hasebe_polyhedron.jpg](images/scenes/fukushiki_14d_hasebe_polyhedron.jpg) |
+| 57 | [images/scenes/fukushiki_14e_moving_boundary.jpg](images/scenes/fukushiki_14e_moving_boundary.jpg) |
+| 58 | [images/scenes/fukushiki_14f_pullback_boundary.jpg](images/scenes/fukushiki_14f_pullback_boundary.jpg) |
+| 59 | [images/scenes/fukushiki_15_data_does_not_exist.jpg](images/scenes/fukushiki_15_data_does_not_exist.jpg) |
+| 60 | [images/scenes/fukushiki_15a_information_wall.jpg](images/scenes/fukushiki_15a_information_wall.jpg) |
+| 61 | [images/scenes/fukushiki_15b_insider_rules.jpg](images/scenes/fukushiki_15b_insider_rules.jpg) |
+| 62 | [images/scenes/fukushiki_16a_the_one_line.jpg](images/scenes/fukushiki_16a_the_one_line.jpg) |
+| 63 | [images/scenes/fukushiki_16c_not_linear.jpg](images/scenes/fukushiki_16c_not_linear.jpg) |
+| 64 | [images/scenes/fukushiki_16d_local_finite_gramian.jpg](images/scenes/fukushiki_16d_local_finite_gramian.jpg) |
+| 65 | [images/scenes/fukushiki_16e_empirical_gramian.jpg](images/scenes/fukushiki_16e_empirical_gramian.jpg) |
+| 66 | [images/scenes/fukushiki_17_the_second_plan.jpg](images/scenes/fukushiki_17_the_second_plan.jpg) |
+| 67 | [images/scenes/fukushiki_17a_known_holes.jpg](images/scenes/fukushiki_17a_known_holes.jpg) |
+| 68 | [images/scenes/fukushiki_17b_the_fourth_company.jpg](images/scenes/fukushiki_17b_the_fourth_company.jpg) |
+| 69 | [images/scenes/fukushiki_18_building_the_wall.jpg](images/scenes/fukushiki_18_building_the_wall.jpg) |
+| 70 | [images/scenes/fukushiki_19_pacioli_group.jpg](images/scenes/fukushiki_19_pacioli_group.jpg) |
+| 71 | [images/scenes/fukushiki_19a_five_hundred_years.jpg](images/scenes/fukushiki_19a_five_hundred_years.jpg) |
+| 72 | [images/scenes/fukushiki_19aa_five_hundred_years.jpg](images/scenes/fukushiki_19aa_five_hundred_years.jpg) |
+| 73 | [images/scenes/fukushiki_19b_t_account_rules.jpg](images/scenes/fukushiki_19b_t_account_rules.jpg) |
+| 74 | [images/scenes/fukushiki_19c_transactions_sum_to_zero.jpg](images/scenes/fukushiki_19c_transactions_sum_to_zero.jpg) |
+| 75 | [images/scenes/fukushiki_19d_group_in_daily_work.jpg](images/scenes/fukushiki_19d_group_in_daily_work.jpg) |
+| 76 | [images/scenes/fukushiki_19e_pacioli_group.jpg](images/scenes/fukushiki_19e_pacioli_group.jpg) |
+| 77 | [images/scenes/fukushiki_19f_what_the_name_gives.jpg](images/scenes/fukushiki_19f_what_the_name_gives.jpg) |
+| 78 | [images/scenes/fukushiki_19g_projection_onto_region.jpg](images/scenes/fukushiki_19g_projection_onto_region.jpg) |
+| 79 | [images/scenes/fukushiki_19h_grothendieck_group.jpg](images/scenes/fukushiki_19h_grothendieck_group.jpg) |
+| 80 | [images/scenes/fukushiki_20_choosing_the_inner_product.jpg](images/scenes/fukushiki_20_choosing_the_inner_product.jpg) |
+| 81 | [images/scenes/fukushiki_21_three_conditions.jpg](images/scenes/fukushiki_21_three_conditions.jpg) |
+| 82 | [images/scenes/fukushiki_22_autumn_2033.jpg](images/scenes/fukushiki_22_autumn_2033.jpg) |
+| 83 | [images/scenes/fukushiki_23_it_is_a_hypothesis.jpg](images/scenes/fukushiki_23_it_is_a_hypothesis.jpg) |
+| 84 | [images/scenes/fukushiki_24_invisible_directions.jpg](images/scenes/fukushiki_24_invisible_directions.jpg) |
+| 85 | [images/scenes/fukushiki_25_blind_spots.jpg](images/scenes/fukushiki_25_blind_spots.jpg) |
+| 86 | [images/scenes/fukushiki_26_design_or_chance.jpg](images/scenes/fukushiki_26_design_or_chance.jpg) |
+| 87 | [images/scenes/fukushiki_27_two_clocks.jpg](images/scenes/fukushiki_27_two_clocks.jpg) |
+| 88 | [images/scenes/fukushiki_28_socks_and_howling.jpg](images/scenes/fukushiki_28_socks_and_howling.jpg) |
+| 89 | [images/scenes/fukushiki_29_clique.jpg](images/scenes/fukushiki_29_clique.jpg) |
+| 90 | [images/scenes/fukushiki_30_spectral_radius.jpg](images/scenes/fukushiki_30_spectral_radius.jpg) |
+| 91 | [images/scenes/fukushiki_31_two_lines.jpg](images/scenes/fukushiki_31_two_lines.jpg) |
+| 92 | [images/scenes/fukushiki_32_one_word.jpg](images/scenes/fukushiki_32_one_word.jpg) |
+| 93 | [images/scenes/fukushiki_33_the_only_lie.jpg](images/scenes/fukushiki_33_the_only_lie.jpg) |
+| 94 | [images/scenes/fukushiki_34_moving_boundary.jpg](images/scenes/fukushiki_34_moving_boundary.jpg) |
+| 95 | [images/scenes/fukushiki_35_four_points.jpg](images/scenes/fukushiki_35_four_points.jpg) |
+| 96 | [images/scenes/fukushiki_36_next_is_nagiura.jpg](images/scenes/fukushiki_36_next_is_nagiura.jpg) |
+| 97 | [images/scenes/fukushiki_37_klara_on_the_train.jpg](images/scenes/fukushiki_37_klara_on_the_train.jpg) |
+| 98 | [images/scenes/fukushiki_38_tearline_meeting.jpg](images/scenes/fukushiki_38_tearline_meeting.jpg) |
+| 99 | [images/scenes/fukushiki_39_persuasion_without_lies.jpg](images/scenes/fukushiki_39_persuasion_without_lies.jpg) |
+| 100 | [images/scenes/fukushiki_40_population_first.jpg](images/scenes/fukushiki_40_population_first.jpg) |
+| 101 | [images/scenes/fukushiki_41_hawkes_chain.jpg](images/scenes/fukushiki_41_hawkes_chain.jpg) |
+| 102 | [images/scenes/fukushiki_42_frankfurt_night.jpg](images/scenes/fukushiki_42_frankfurt_night.jpg) |
+| 103 | [images/scenes/fukushiki_43_nagiura_meeting.jpg](images/scenes/fukushiki_43_nagiura_meeting.jpg) |
+| 104 | [images/scenes/fukushiki_44_unraveling.jpg](images/scenes/fukushiki_44_unraveling.jpg) |
+| 105 | [images/scenes/fukushiki_45_order_matters.jpg](images/scenes/fukushiki_45_order_matters.jpg) |
+| 106 | [images/scenes/fukushiki_46_disclosure_day.jpg](images/scenes/fukushiki_46_disclosure_day.jpg) |
+| 107 | [images/scenes/fukushiki_47_misfire.jpg](images/scenes/fukushiki_47_misfire.jpg) |
+| 108 | [images/scenes/fukushiki_48_two_paths.jpg](images/scenes/fukushiki_48_two_paths.jpg) |
+| 109 | [images/scenes/fukushiki_49_weights.jpg](images/scenes/fukushiki_49_weights.jpg) |
+| 110 | [images/scenes/fukushiki_50_night.jpg](images/scenes/fukushiki_50_night.jpg) |
+| 111 | [images/scenes/fukushiki_51_three_channels.jpg](images/scenes/fukushiki_51_three_channels.jpg) |
+| 112 | [images/scenes/fukushiki_52_the_reviewer.jpg](images/scenes/fukushiki_52_the_reviewer.jpg) |
+| 113 | [images/scenes/fukushiki_53_four_lines.jpg](images/scenes/fukushiki_53_four_lines.jpg) |
+| 114 | [images/scenes/fukushiki_54_december_london.jpg](images/scenes/fukushiki_54_december_london.jpg) |
+| 115 | [images/scenes/fukushiki_55_morning_arrests.jpg](images/scenes/fukushiki_55_morning_arrests.jpg) |
+| 116 | [images/scenes/fukushiki_56_the_wire_story.jpg](images/scenes/fukushiki_56_the_wire_story.jpg) |
+| 117 | [images/scenes/fukushiki_57_tokyo_morning.jpg](images/scenes/fukushiki_57_tokyo_morning.jpg) |
+| 118 | [images/scenes/ukushiki_58_the_only_lie_crossed.jpg](images/scenes/ukushiki_58_the_only_lie_crossed.jpg) |
+| 119 | [images/scenes/fukushiki_59_one_line.jpg](images/scenes/fukushiki_59_one_line.jpg) |
+| 120 | [images/scenes/ukushiki_60_four_companies_after.jpg](images/scenes/ukushiki_60_four_companies_after.jpg) |
+| 121 | [images/scenes/fukushiki_61_final_meeting.jpg](images/scenes/fukushiki_61_final_meeting.jpg) |
+| 122 | [images/scenes/add.jpg](images/scenes/add.jpg) |
+| 123 | [images/scenes/fukushiki_62a_grandes_ecoles.jpg](images/scenes/fukushiki_62a_grandes_ecoles.jpg) |
+| 124 | [images/scenes/fukushiki_62a_normalienne.jpg](images/scenes/fukushiki_62a_normalienne.jpg) |
+| 125 | [images/scenes/fukushiki_62b_double_degree.jpg](images/scenes/fukushiki_62b_double_degree.jpg) |
+| 126 | [images/scenes/fukushiki_62d_naming_fukushiki.jpg](images/scenes/fukushiki_62d_naming_fukushiki.jpg) |
+| 127 | [images/scenes/fukushiki_62d_naming_fukushiki_on_whiteboard.jpg](images/scenes/fukushiki_62d_naming_fukushiki_on_whiteboard.jpg) |
+| 128 | [images/scenes/fukushiki_63_lin_reveals_zero.jpg](images/scenes/fukushiki_63_lin_reveals_zero.jpg) |
+
+## ライセンス
+
+License: Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+## 著者
+
+Étale Cohomology
