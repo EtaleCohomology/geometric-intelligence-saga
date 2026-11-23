@@ -32,6 +32,9 @@ GI (Geometric Intelligence) 理論を様々な領域に適用したケースス�
 ### 個人・一族編
 [private-clients/](private-clients/) - 百年の測地線 ── 生存者たちのサロン
 
+### 社内・自主研究編
+[meridian_in_house/](meridian_in_house/) — 顧客の依頼ではなく、メリディアン社が自らの発意で取り組むケーススタディ（中華麺の多様体 ── チャーシューは、本当に薄くなったのか）
+
 ## 言語
 
 各ケーススタディは複数言語版で公開される。
