@@ -5,11 +5,15 @@
 ## 画集
 
 - 倉田教授の愛車ドライブ（`kurata-drive.pdf`）── Google Gemini により生成
-- リンとカイトの新居の暮らし（`lin-kaito-home.pdf`）── Google Gemini により生成
 - メリディアンの勉強会（`meridian-study-sessions.pdf`）── Google Gemini により生成
 - 長谷部さんの食べ歩き（`hasebe-dining.pdf`）── Google Gemini により生成
 - 多様体と非可換幾何学（`manifolds-and-noncommutative-geometry.pdf`）── Google Gemini により生成
 - 多様体とスペクトル幾何学（`manifolds-and-spectral-geometry.pdf`）── Google Gemini により生成
+
+## 人物ごとのフォルダ
+
+- 人物ごとの肖像画のフォルダ（`Riem_Stream/` など）── 各作品の「登場人物」のページに載せた肖像画。Google Gemini により生成
+- `Kaito_and_Lin/` ── 本編に載せた画像、本編に載せない画像、２人の暮らしの画集（`home-life.pdf` など）。Google Gemini により生成
 
 ## 登場人物
 
