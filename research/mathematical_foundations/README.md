@@ -36,8 +36,8 @@ Files will be added as the analysis progresses. Each file addresses a specific f
 |---|---|
 | [`vae_alternatives/`](./vae_alternatives) | Mathematical foundations of GI theory and alternative approaches (research note, Japanese) |
 | [`manifold_shape_diagnostics/`](./manifold_shape_diagnostics) | Checking the global shape of a GI map: spectral diagnostics (islands, low spectrum, heat kernel signature, Weyl dimension) and their limits, with a runnable known-answer test (research note, Japanese) |
-| [`manifold_shape_diagnostics_undergraduate_guide/`](./manifold_shape_diagnostics_undergraduate_guide) | Plain-language guide to the same checks for undergraduates, with a step-by-step script (Japanese) |
-| [`manifolds_spectral_noncommutative_geometry_undergraduate_guide/`](./manifolds_spectral_noncommutative_geometry_undergraduate_guide) | Plain-language guide for undergraduates: how manifold theory relates to spectral geometry and to noncommutative geometry, with small runnable examples (Japanese) |
+| [`manifold_shape_diagnostics_undergraduate_guide/`](./manifold_shape_diagnostics_undergraduate_guide) | Plain-language guide to the same checks for undergraduates, with a step-by-step script and an illustrated PDF on the quality-check workflow from the viewpoints of spectral and noncommutative geometry (Japanese) |
+| [`manifolds_spectral_noncommutative_geometry_undergraduate_guide/`](./manifolds_spectral_noncommutative_geometry_undergraduate_guide) | Plain-language guide for undergraduates: how manifold theory relates to spectral geometry and to noncommutative geometry, with small runnable examples and an illustrated PDF (Japanese) |
 
 ## Method
 

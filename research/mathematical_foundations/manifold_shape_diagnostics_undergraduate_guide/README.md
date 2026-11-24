@@ -7,6 +7,7 @@
 **著者**: Étale Cohomology
 **最終更新**: 2026 年 11 月
 **前提にする知識**: 線形代数（行列の固有値と固有ベクトル）、微分積分（2 階微分）、Python を少し
+**図解 PDF（画像入り）**: [`quality_checks_illustrated_undergrad.pdf`](./quality_checks_illustrated_undergrad.pdf)（『多様体の品質チェックの工程 ── スペクトル幾何学と非可換幾何学の観点から』。補助文書 02・05 の図 44 枚入り、54 ページ）
 **一緒に動かすコード**: [`shape_checks_undergraduate_walkthrough.py`](./shape_checks_undergraduate_walkthrough.py)（CPU のみ、10 秒以内）
 
 ## この解説で分かること

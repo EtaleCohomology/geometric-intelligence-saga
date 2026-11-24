@@ -7,6 +7,7 @@
 **著者**: Étale Cohomology
 **最終更新**: 2026 年 11 月
 **前提にする知識**: 線形代数（固有値、行列の積が一般に交換しないこと）、微分積分（偏微分、2 階微分）、複素数 $e^{i\theta}$
+**図解 PDF（画像入り）**: [`three_geometries_illustrated_undergrad.pdf`](./three_geometries_illustrated_undergrad.pdf)（『多様体、スペクトル幾何学、非可換幾何学 ── 3 つの関係』。図 20 枚入り、28 ページ）
 **一緒に動かすコード**: [`small_examples_undergraduate.py`](./small_examples_undergraduate.py)（numpy のみ、1 秒以内）
 
 ## この解説で分かること
