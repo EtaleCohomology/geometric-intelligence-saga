@@ -32,6 +32,11 @@ The main alternatives currently tracked:
 
 Files will be added as the analysis progresses. Each file addresses a specific framework or comparison question.
 
+| Folder | Contents |
+|---|---|
+| [`vae_alternatives/`](./vae_alternatives) | Mathematical foundations of GI theory and alternative approaches (research note, Japanese) |
+| [`manifold_shape_diagnostics/`](./manifold_shape_diagnostics) | Checking the global shape of a GI map: spectral diagnostics (islands, low spectrum, heat kernel signature, Weyl dimension) and their limits, with a runnable known-answer test (research note, Japanese) |
+
 ## Method
 
 Each framework is evaluated on identical criteria. Where a framework is particularly strong in one dimension (e.g., neural ODE for control, GPLVM for uncertainty), the report documents both the strength and the trade-off required to access it.
