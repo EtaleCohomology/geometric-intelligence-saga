@@ -36,6 +36,7 @@ Files will be added as the analysis progresses. Each file addresses a specific f
 |---|---|
 | [`vae_alternatives/`](./vae_alternatives) | Mathematical foundations of GI theory and alternative approaches (research note, Japanese) |
 | [`manifold_shape_diagnostics/`](./manifold_shape_diagnostics) | Checking the global shape of a GI map: spectral diagnostics (islands, low spectrum, heat kernel signature, Weyl dimension) and their limits, with a runnable known-answer test (research note, Japanese) |
+| [`manifold_shape_diagnostics_undergraduate_guide/`](./manifold_shape_diagnostics_undergraduate_guide) | Plain-language guide to the same checks for undergraduates, with a step-by-step script (Japanese) |
 
 ## Method
 
