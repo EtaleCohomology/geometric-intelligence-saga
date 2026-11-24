@@ -274,6 +274,7 @@ $$N(\lambda) \approx C \, \lambda^{m/2}$$
 ## もっと詳しく
 
 - 研究ノート（数式、限界、非可換幾何学からの位置づけ、よくある誤り）: [`../manifold_shape_diagnostics/`](../manifold_shape_diagnostics)
+- 多様体、スペクトル幾何学、非可換幾何学の関係（学部生向け）: [`../manifolds_spectral_noncommutative_geometry_undergraduate_guide/`](../manifolds_spectral_noncommutative_geometry_undergraduate_guide)
 - この話のもとになったケーススタディ『中華麺の多様体』: [`case-studies/meridian_in_house/ramen-manifold/`](../../../case-studies/meridian_in_house/ramen-manifold)
 
 ## License

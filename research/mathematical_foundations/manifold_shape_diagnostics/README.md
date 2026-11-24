@@ -8,6 +8,7 @@
 **最終更新**: 2026 年 11 月
 **対象読者**: GI 理論で VAE + 引き戻し計量の多様体（以下、GI の地図）を作る実務者と、その品質を評価する研究者
 **関連**: [`../vae_alternatives/`](../vae_alternatives)（GI 理論の数学的基盤と代替アプローチ）
+**学部生向けの解説**: [`../manifold_shape_diagnostics_undergraduate_guide/`](../manifold_shape_diagnostics_undergraduate_guide)
 
 ## TL;DR
 

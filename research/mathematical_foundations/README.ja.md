@@ -37,6 +37,7 @@ GI理論Volume 1・2は単一の数学的基盤——観測データで訓練し
 | [`vae_alternatives/`](./vae_alternatives) | GI 理論の数学的基盤と代替アプローチ（研究ノート） |
 | [`manifold_shape_diagnostics/`](./manifold_shape_diagnostics) | GI の地図の大域的な形の点検: スペクトルによる診断（島の数、低い固有値、熱核の署名、ワイルの法則による次元）とその限界。答えの分かっている例で試すコードつき（研究ノート） |
 | [`manifold_shape_diagnostics_undergraduate_guide/`](./manifold_shape_diagnostics_undergraduate_guide) | 上の点検を学部生向けにやさしく解説したもの。順を追って動かすコードと練習問題つき |
+| [`manifolds_spectral_noncommutative_geometry_undergraduate_guide/`](./manifolds_spectral_noncommutative_geometry_undergraduate_guide) | 多様体論と、スペクトル幾何学・非可換幾何学との関係を学部生向けにやさしく解説したもの。小さな計算例のコードと練習問題つき |
 
 ## 方法
 
