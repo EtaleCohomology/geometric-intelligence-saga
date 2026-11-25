@@ -14,6 +14,7 @@
 
 - 人物ごとの肖像画のフォルダ（`Riem_Stream/` など）── 各作品の「登場人物」のページに載せた肖像画。Google Gemini により生成
 - `Kaito_and_Lin/` ── 本編に載せた画像、本編に載せない画像、２人の暮らしの画集（`home-life.pdf` など）。Google Gemini により生成
+- `Riem_Stream/images/` ── リームの、肖像画のほかの画像（本編に載せた画像、本編に載せない画像）。Google Gemini により生成
 
 ## 登場人物
 

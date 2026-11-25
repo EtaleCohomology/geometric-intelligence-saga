@@ -46,6 +46,8 @@ GI ケーススタディ・ストーリーの登場人物たちの画集です�
 
 `Kaito_and_Lin/` だけは、肖像画ではなく、２人の画像のフォルダです。中の決まりは、[`Kaito_and_Lin/README.md`](Kaito_and_Lin/README.md) にあります。リンとカイトの暮らしの画集（PDF）も、このフォルダに置きます。
 
+`Riem_Stream/` には、肖像画のほかに、リームの画像を `images/` に置いています。中の決まりは、[`Riem_Stream/README.md`](Riem_Stream/README.md) にあります。
+
 ### ファイル名の決まり
 
 ```text
