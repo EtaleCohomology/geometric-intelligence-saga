@@ -80,6 +80,34 @@
 | `poodle-kiss-on-riviera-beach-b.jpg` | リヴィエラの浜辺で、プードルにキス（2） |
 | `diving-from-yacht.jpg` | ヨットから、海に飛び込む |
 
+### 社長室で
+
+| ファイル | 場面 |
+|---|---|
+| `riem-arms-crossed-office.jpg` | 朝の社長室で、腕を組んで立つ |
+| `riem-poised-office.jpg` | 社長室で、あごに手を当てて考える |
+| `riem-tucking-hair-office.jpg` | 社長室で、髪を耳にかける |
+| `riem-leaning-back-office..jpg` | 社長室で、机に手をついてもたれる |
+| `riem-ceo-office-working.jpg` | 夕方の社長室で、書類に書き込む |
+| `riem-sleepy-executive-break.jpg` | 夕方の社長室で、眠たそうにひと息つく |
+| `riem-asleep-ceo-chair.jpg` | 夜の社長室で、机にもたれたまま、うとうとする |
+
+### 仮眠室で
+
+| ファイル | 場面 |
+|---|---|
+| `riem-combing-hair-bed.jpg` | 朝の仮眠室で、ベッドに横になり、髪に手をやる（1） |
+| `riem-combing-hair-bed2.jpg` | 朝の仮眠室で、ベッドに横になり、髪に手をやる（2） |
+| `riem-sleeping-ceo-naproom..jpg` | 夜の仮眠室で、毛布をかけて眠る |
+| `riem-sleeping-ceo-naproom2.jpg` | 夜の仮眠室で、仕事の服のまま眠る |
+| `riem-sleeping-ceo-naproom3.jpg` | 朝の仮眠室で、仕事の服のまま眠る |
+
+### パリで
+
+| ファイル | 場面 |
+|---|---|
+| `riem-running-champs-elysees.jpg` | 秋の朝、凱旋門へ向かって、シャンゼリゼ通りを走る |
+
 ## ほかの画像
 
 - 本編に載せた画像：[`../in-story/`](../in-story)
