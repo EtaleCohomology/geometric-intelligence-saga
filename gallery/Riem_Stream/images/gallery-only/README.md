@@ -12,7 +12,7 @@
 - いまある画像は、物語の中の時期を決めていないため、年月を付けていません
 - 同じ場所の似た場面が複数あるときは、末尾に `-a`、`-b`、`-c` を付けます
 
-## 画像の一覧（41枚）
+## 画像の一覧（65枚）
 
 ### 仕事
 
@@ -39,6 +39,18 @@
 | `tired-with-differential-geometry-book.jpg` | 微分幾何学の本を前に、ひと息つく |
 | `asleep-at-desk-studying.jpg` | 勉強の途中で、机で眠ってしまう |
 | `writing-in-rainy-bookshop-cafe.jpg` | 雨の日の書店のカフェで、書きものをする |
+
+### 大学で
+
+| ファイル | 場面 |
+|---|---|
+| `riem-lecture-side-profile.jpg` | エタール・コホモロジーの講義で、黒板を指して話す |
+| `riem-writing-on-blackboard-back-right-view.jpg` | 黒板に、エタール・コホモロジーの式を書く |
+| `female-professor-grading-class-on-chalkboard.jpg` | 微分幾何学の講義室で、黒板に試験の点数を書く |
+| `playful-female-professor-winking-classroom.jpg` | 講義室で、チョークを手にウインク |
+| `charming-female-professor-resting-at-desk-classroom.jpg` | 講義室で、教卓にもたれて髪に手をやる |
+| `professor-resting-on-podium.jpg` | 講義室で、教卓に手をついてほほえむ |
+| `riem-dozing-off-peacefully-in-faculty-office.jpg` | 大学の研究室で、椅子にもたれてうたた寝する |
 
 ### 家での時間
 
@@ -91,6 +103,10 @@
 | `riem-ceo-office-working.jpg` | 夕方の社長室で、書類に書き込む |
 | `riem-sleepy-executive-break.jpg` | 夕方の社長室で、眠たそうにひと息つく |
 | `riem-asleep-ceo-chair.jpg` | 夜の社長室で、机にもたれたまま、うとうとする |
+| `reiem_reading_report.jpg` | 社長室で、立ったまま報告書を読む |
+| `riem-taking-break-london-office.jpg` | 社長室で、コーヒーを手にひと息つく |
+| `riem-dozing-off-ceo-office.jpg` | 社長室の椅子で、うたた寝する |
+| `riem-exhausted-executive-chair.jpg` | 社長室の椅子で、あくびをする |
 
 ### 仮眠室で
 
