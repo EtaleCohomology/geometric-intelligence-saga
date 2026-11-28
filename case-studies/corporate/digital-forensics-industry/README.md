@@ -39,6 +39,7 @@ GI 理論の経営環境多様体の地図は、黒曜の進む道の問いに�
 | ja/04_industry_knowledge.pdf | 補助文書04：デジタルフォレンジック、証拠の保全、報告書の書き方、聞き取りの倫理、時刻の決まり、2026年11月時点の日本の制度と規格 |
 | ja/05_character_growth.pdf | 補助文書05：メリディアン社の登場人物の成長（本作から加えた補助文書） |
 | ja/related/qiita_neurips_sheaf_cellular_not_etale.pdf | 関連ファイル：本稿執筆者の Qiita の記事「NeurIPSで急増する "Sheaf" の正体」（https://qiita.com/etale_cohomology/items/38ebac219c97c40fc4e3）。本作との関係は補助文書01 の 7.2節 |
+| ja/related/qiita_spinoff_article_murmurations_of_elliptic_curves.pdf | 関連ファイル：本作からスピンオフした、本稿執筆者の Qiita の記事「Murmurations of Elliptic Curves──数学者たちが「ムクドリの群れ」と名づけた有限体上の楕円曲線の解の個数の揺らぎ」（https://qiita.com/etale_cohomology/items/ee2ad02afca8ef5b9110）。エピローグで長谷部が話す「楕円曲線のさざめき」を詳しく解説した |
 | code/figures/ | 計算と図のコード（13本）と、共通の設定 common.py |
 | code/requirements.txt | 必要なライブラリ |
 | images/characters/ | 登場人物の肖像画（14点） |
